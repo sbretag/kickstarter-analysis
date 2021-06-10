@@ -16,6 +16,10 @@ This analysis was put together by first creating "years" column based on launch 
 
 ![](Theatre_Outcomes_vs_Launch.png)
 
+##### Analysis
+ [Go to Theatre Outcomes vs Launch Analysis] (sbretag/kickstarter-analysis/to/Kickstarter_Challenge.xlsx)
+ 
+
 ### Analysis of Outcomes Based on Goals
 
 This analysis was performed by creating a table with fundraising goal amounts grouped in buckets.  Each fundraising bucket was that broken down by the count of each outcome (excluding outcomes in "Live" status).  Additional calculations were added to show success/failure for each group as well.  In order to perform visualization analysis, the data was then charted in a line graph for each outcome showing % of total project count on the Y axis, the fundraising goal amount groups on the X axis.  Note that the data is limited to outcomes of theatre plays only.Analyzing the chart provides a general view of outcome performance across each goal amount bucket.

@@ -10,7 +10,9 @@ The purpose of this analysis is to put together visualizations and insights on h
 
 ### Analysis of Outcomes Based on Launch Date
 
-This analysis was put together by first creating "years" column based on launch date to allow for an aggregated visualization of outcomes by month in a line chart. The line chart below is filtered to theatre related fundraisers category which includes plays, musicals, and spaces.  The years is also included in the filter however the chart in it's current form is showing all years.  It can be dynamically filtered by year in the source file.   The Y axis represents the count of the outcomes excluding those in "Live" status and the x axis is showing the month of fundraiser launch date.  The lines in the graph represent each out ccome including "Successful", "Failed", and "Cancelled".  Analyzing the chart visually provides an general view of outcomes over time and identifies seasonality.
+This analysis was put together by first creating "years" column based on launch date to allow for an aggregated visualization of outcomes by month in a line chart (See Chart 1 below). The chart below is filtered to theatre related fundraisers category which includes plays, musicals, and spaces.  The years is also included in the filter however the chart in it's current form is showing all years.  It can be dynamically filtered by year in the source file.   The Y axis represents the count of the outcomes excluding those in "Live" status and the x axis is showing the month of fundraiser launch date.  The lines in the graph represent each out ccome including "Successful", "Failed", and "Cancelled".  Analyzing the chart visually provides an general view of outcomes over time and identifies seasonality.
+
+#### Chart 1
 
 ![](Theatre_Outcomes_vs_Launch.png)
 

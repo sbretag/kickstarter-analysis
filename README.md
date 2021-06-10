@@ -16,9 +16,8 @@ This analysis was put together by first creating "years" column based on launch 
 
 ![](Theatre_Outcomes_vs_Launch.png)
 
-##### Analysis
- [Go to Theatre Outcomes vs Launch Analysis] (sbretag/kickstarter-analysis/main/to/Kickstarter_Challenge.xlsx)
- 
+##### Data Analysis File
+ [Go to Theatre Outcomes vs Launch Analysis](https://github.com/sbretag/kickstarter-analysis/main/Kickstarter_Challenge.xlsx)
 
 ### Analysis of Outcomes Based on Goals
 

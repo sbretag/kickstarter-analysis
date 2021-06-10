@@ -28,7 +28,7 @@ This analysis was performed by creating a table with fundraising goal amounts gr
 ![](Outcomes_vs_Goals.png)
 
 ##### Data Analysis File
- [Go to Theatre Outcomes vs Launch Analysis](https://github.com/sbretag/kickstarter-analysis/main/Kickstarter_Challenge.xlsx)
+ [Go to Outcomes Based on Goals Analysis](https://github.com/sbretag/kickstarter-analysis/main/Kickstarter_Challenge.xlsx)
  
 ### Challenges and Difficulties Encountered
 

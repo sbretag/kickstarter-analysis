@@ -14,7 +14,7 @@ This analysis was put together by first creating a "Years" column based on launc
 
 #### Chart 1
 
-![](Theatre_Outcomes_vs_Launch.png)
+![](https://github.com/sbretag/kickstarter-analysis/blob/main/Resources/Theatre_Outcomes_vs_Launch.png)
 
 ##### Data Analysis File
  [Go to Theatre Outcomes vs Launch Analysis](https://github.com/sbretag/kickstarter-analysis/blob/main/Resources/Kickstarter_Challenge.xlsx)
